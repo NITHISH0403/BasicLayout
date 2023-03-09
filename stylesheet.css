@@ -42,5 +42,5 @@
 .header .info #content{
     margin: 10px 0 0 0;
     font-size: 16px;
-    font-family: "Bell MT";
+    font-family: "Bell MT", Arial, sans-serif;
 }
