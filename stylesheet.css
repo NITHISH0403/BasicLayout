@@ -8,7 +8,7 @@
     height: 600px;
 }
 .header .head #logo{
-    font-family: "Castellar";
+    font-family: "Castellar", Arial, sans-serif;
     color: orange;
     margin: 0 0 0 10px;
     padding: 10px;
@@ -23,7 +23,7 @@
 }
 .header .head nav ul li a{
     text-decoration: none;
-    font-family: "Bahnschrift SemiBold";
+    font-family: "Bahnschrift SemiBold", Arial, sans-serif;
     font-weight: bold;
     font-size: 20px;
     color: white;
@@ -31,7 +31,7 @@
 .header .info{
     width: 550px;
     color: white;
-    font-family: "Baskerville Old Face";
+    font-family: "Baskerville Old Face", Arial, sans-serif;
     font-size: 50px;
     font-weight: bold;
     margin: 150px 0 0 100px;
